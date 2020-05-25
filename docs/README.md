@@ -1,5 +1,6 @@
 # The Frontend Handbook (2020 Edition)
 
+![W3C logo](https://img.icons8.com/ios-filled/48/000000/w3c.png "W3C")
 ![Html5 logo](https://img.icons8.com/color/48/000000/html-5.png "HTML5")
 ![CSS3 logo](https://img.icons8.com/color/48/000000/css3.png "CSS3")
 ![JavaScript logo](https://img.icons8.com/color/48/000000/javascript.png "JavaScript")
@@ -24,7 +25,12 @@
 <img src="https://parceljs.org/assets/parcel-front.webp" alt="Parcel logo" title="Parcel" height="48" width="48" />
 <img src="https://rollupjs.org/logo.svg" alt="Rollup logo" title="Rollup" height="48" width="48" />
 ![ReactJS logo](https://img.icons8.com/office/48/000000/react.png "ReactJS")
+<img src="https://api.iconify.design/logos:nextjs.svg" alt="Next.js logo" title="Next.js" height="48" width="48"  />
+<img src="https://api.iconify.design/logos:gatsby.svg" alt="Gatsby logo" title="Gatsby" height="48" width="48" />
+<img src="https://create-react-app.dev/img/logo.svg" alt="Create React App logo" title="Create React App" height="48" width="48" />
 ![VueJS logo](https://img.icons8.com/color/48/000000/vue-js.png "VueJS")
+<img src="https://api.iconify.design/logos:nuxt.svg" alt="Nuxt.js logo" title="Nuxt.js" height="48" width="48" />
+<img src="https://api.iconify.design/logos:gridsome-icon.svg" alt="Gridsome logo" title="Gridsome" height="48" width="48" />
 ![Svelte logo](https://img.icons8.com/doodle/48/000000/svetle.png "Svelte")
 <img src="https://api.iconify.design/logos-preact.svg" alt="Preact logo" title="Preact" height="48" width="48" />
 ![Angular JS logo](https://img.icons8.com/color/48/000000/angularjs.png "Angular JS")
@@ -43,15 +49,26 @@
 ![jQuery logo](https://img.icons8.com/ios-filled/48/000000/jquery.png "jQuery")
 <img src="https://api.iconify.design/logos:lodash.svg" alt="Lodash logo" title="Lodash" width="48" height="48" />
 <img src="https://api.iconify.design/logos:momentjs.svg" alt="MomentJS logo" title="MomentJS" width="48" height="48" />
+<img src="https://api.iconify.design/logos:d3.svg" alt="D3 logo" title="D3" width="48" height="48" />
+<img src="https://api.iconify.design/logos:highcharts.svg" alt="Highcharts logo" title="Highcharts" height="48" width="48" />
+![Google Chrome logo](https://img.icons8.com/color/48/000000/chrome--v1.png "Google Chrome")
+![Mozilla Firefox logo](https://img.icons8.com/color/48/000000/firefox.png "Mozilla Firefox")
+![Microsoft Edge logo](https://img.icons8.com/fluent/48/000000/ms-edge-new.png "Microsoft Edge")
+![Apple Safari logo](https://img.icons8.com/color/48/000000/safari--v1.png "Apple Safari")
+![Web Server logo](https://img.icons8.com/dusk/48/000000/server.png "Web Server")
 ![JSFiddle logo](https://img.icons8.com/color/48/000000/jsfiddle.png "JSFiddle")
+<img src="https://api.iconify.design/cib:codesandbox.svg" alt="CodeSandbox logo" title="CodeSandbox" height="48" width="48" />
+<img src="https://cdn.glitch.com/2bdfb3f8-05ef-4035-a06e-2043962a3a13%2Flogo-night.svg" alt="Glitch logo" title="Glitch" height="48" width="48" />
 ![Codepen logo](https://img.icons8.com/ios-filled/48/000000/codepen.png "Codepen")
 ![Sublime text logo](https://img.icons8.com/color/48/000000/sublime-text.png "Sublime Text")
+![Atom Editor logo](https://img.icons8.com/color/48/000000/atom-editor.png "Atom Editor")
+![Visual Studio Code logo](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png "Visual Studio Code")
 
 Learnings about our beloved frontend web development ❤️.
 
 **Frontend development** has taken the world by storm in the last decade with extreme progress in all web technologies (HTML, CSS, JS, etc.) sponsored and led by the biggest software companies in the world. It is arguably one of the highest paid, the most in-demand and satisfying jobs in the software industry for quite some time. This is the best time to learn it if you haven’t started already 😃!
 
-Here is the exhaustive list of the front-end technologies, Softwares, and concepts one should learn to become a great front-end developer 🎉 and give amazing job interviews with confidence 💪.
+Here is the exhaustive list of the front-end technologies, softwares, and concepts one should learn to become a great front-end developer 🎉 and give amazing job interviews with confidence 💪.
 
 ### Technologies
 
