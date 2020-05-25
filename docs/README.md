@@ -9,6 +9,7 @@
 ![Rest API logo](https://img.icons8.com/nolan/48/api-settings.png "Rest API")
 ![GraphQL logo](https://img.icons8.com/color/48/000000/graphql.png "GraphQL")
 ![NodeJS logo](https://img.icons8.com/color/48/000000/nodejs.png "NodeJS")
+<img src="https://api.iconify.design/cib:deno.svg" alt="Deno logo" title="Deno" height="48" width="48" />
 ![NPM logo](https://img.icons8.com/color/48/000000/npm.png "NPM")
 ![Markdown logo](https://img.icons8.com/office/48/000000/markdown.png "Markdown")
 ![Sass logo](https://img.icons8.com/color/48/000000/sass.png "Sass")
@@ -24,6 +25,8 @@
 ![Gulp logo](https://img.icons8.com/windows/48/000000/gulp.png "Gulp")
 <img src="https://parceljs.org/assets/parcel-front.webp" alt="Parcel logo" title="Parcel" height="48" width="48" />
 <img src="https://rollupjs.org/logo.svg" alt="Rollup logo" title="Rollup" height="48" width="48" />
+<img src="https://api.iconify.design/logos:eslint.svg" alt="Eslint logo" title="Eslint" height="48" width="48" />
+<img src="https://api.iconify.design/logos:prettier.svg" alt="Prettier logo" title="Prettier" height="48" width="48"  />
 ![ReactJS logo](https://img.icons8.com/office/48/000000/react.png "ReactJS")
 <img src="https://api.iconify.design/logos:nextjs.svg" alt="Next.js logo" title="Next.js" height="48" width="48"  />
 <img src="https://api.iconify.design/logos:gatsby.svg" alt="Gatsby logo" title="Gatsby" height="48" width="48" />
@@ -38,6 +41,20 @@
 ![Polymer logo](https://img.icons8.com/color/48/000000/polymer.png "Polymer")
 ![Redux logo](https://img.icons8.com/color/48/000000/redux.png "Redux")
 <img src="https://mobx.js.org/assets/mobx.png" alt="MobX logo" title="MobX" height="48" width="48" />
+<img src="https://api.iconify.design/logos:mocha.svg" alt="Mocha.js logo" title="Mocha.js" height="48" width="48" />
+<img src="https://api.iconify.design/logos:jasmine.svg" alt="Jasmine.js logo" title="Jasmine.js" height="48" width="48" />
+<img src="https://api.iconify.design/logos:chai.svg" alt="Chai.js logo" title="Chai.js" height="48" width="48" />
+<img src="https://sinonjs.org/assets/images/logo.png" alt="Sinon.js logo" title="Sinon.js" height="48" width="48" />
+<img src="https://api.iconify.design/logos:jest.svg" alt="Jest.js logo" title="Jest.js" height="48" width="48" />
+<img src="https://api.iconify.design/logos:karma.svg" alt="Karma.js logo" title="Karma.js" height="48" width="48" />
+<img src="https://api.iconify.design/logos:ava.svg" alt="AVA.js logo" title="AVA.js" height="48" width="48" />
+<img src="data:image/svg+xml,%3Csvg xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:cc='http://creativecommons.org/ns%23' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns%23' xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1' width='40' height='40'%3E%3Cg%3E%3Cpath d='m 0,20 20,0 0,-20 20,0 0,40 -40,0 z' style='fill:%2362b455;fill-opacity:1;fill-rule:evenodd'/%3E%3C/g%3E%3C/svg%3E%0A" alt="Wallaby.js logo" title="Wallaby.js" height="48" width="48" />
+<img src="https://api.iconify.design/logos:cypress.svg" alt="Cypress.js logo" title="Cypress.js" height="48" width="48" />
+<img src="https://api.iconify.design/logos:nightwatch.svg" alt="Nightwatch.js logo" title="Nightwatch.js" height="48" width="48" />
+<img src="https://api.iconify.design/logos:puppeteer.svg" alt="Puppeteer.js logo" title="Puppeteer.js" height="48" width="48" />
+<span title="Playwright" style="align-items: center; display: inline-flex; font-size: 2.5em; height: 48px; justify-content: center; width: 48px;vertical-align: bottom;">🎭</span>
+<img src="https://testing-library.com/img/octopus-64x64.png" alt="React Testing Library logo" title="React Testing Library" height="48" width="48" />
+<img src="https://getfal.co/img/logo.svg" alt="Falco logo" title="Falco" height="48" width="48" />
 ![Bootstrap logo](https://img.icons8.com/color/48/000000/bootstrap.png "Bootstrap")
 <img src="https://get.foundation/assets/img/homepage/responsive-through-and-through.svg" alt="Zurb Foundation logo" title="Zurb Foundation" height="60" width="60" />
 <img src="https://semantic-ui.com/images/logo.png" alt="Semantic UI logo" title="Semantic UI" height="48" width="48" />
