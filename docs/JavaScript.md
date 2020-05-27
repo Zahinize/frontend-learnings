@@ -102,7 +102,7 @@ The dynamic capabilities of JavaScript includes run-time object construction, va
 
 ### JavaScript Engines
 
-There are six major JavaScript engines released and used by the world's biggest tech companies till date.
+There are six major JavaScript engines released and used by the world's biggest tech companies to date.
 
 -   **SpiderMonkey and Rhino - Mozilla (Netscape)**
 
@@ -118,10 +118,10 @@ There are six major JavaScript engines released and used by the world's biggest 
 
 -   **Carakan - Opera (version < 15)**
 
-    -   This engine was used in the older version of the Opera browser before the company adopted Google's V8 engine and deprecated their own.
+    -   This engine was used in the older version of the Opera browser before the company adopted Google's V8 engine and deprecated its own.
 
 -   **Chakra - Microsoft**
-    -   This engine was used in the Internet Explorer and older version of Microsoft Edge browsers before the company adopted Google's V8 engine and deprecated their own.
+    -   This engine was used in the Internet Explorer and older version of Microsoft Edge browsers before the company adopted Google's V8 engine and deprecated its own.
 
 **Source**
 
