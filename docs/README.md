@@ -91,7 +91,7 @@ Here is the exhaustive list of the front-end technologies, softwares, and concep
 
 -   Html/Html5 (core and advanced)
 -   CSS/CSS3 (core and advanced)
--   JavaScript (core and advanced, ES5+)
+-   [JavaScript](JavaScript?id=what-is-javascript) (core and advanced, ES5+)
 -   A backend Language (Node JS/PHP/Python/Ruby/Go/Java etc.)
 -   JSON
 -   HTTP, SMTP protocol
