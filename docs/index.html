@@ -15,6 +15,29 @@
 				margin: 0;
 				padding: 0;
 			}
+			section.cover h1 + p + p {
+				font-size: 1.1rem;
+			}
+
+			@media (min-width: 1200px) {
+				section.cover p {
+					margin: 0 auto 2em;
+					width: 80%;
+				}
+			}
+			@media (max-width: 992px) {
+				section.cover h1 {
+					font-size: 1.5rem;
+					font-weight: 600;
+				}
+				section.cover h1 + p {
+					display: flex;
+					flex-wrap: wrap;
+					margin-bottom: 3rem;
+					max-height: 31vh;
+					overflow: hidden;
+				}
+			}
 		</style>
 	</head>
 	<body>
@@ -77,6 +100,7 @@
 			window.$docsify = {
 				name: "",
 				repo: "",
+				coverpage: true,
 				plugins: [
 					function(hook, vm) {
 						hook.doneEach(function(html) {
