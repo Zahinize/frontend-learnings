@@ -1,16 +1,23 @@
 # The Frontend Handbook (2020 Edition)
 
+![Internet logo](https://img.icons8.com/color/48/000000/internet.png "Internet")
 ![W3C logo](https://img.icons8.com/ios-filled/48/000000/w3c.png "W3C")
+<img src="https://api.iconify.design/logos:whatwg.svg" alt="WHATWG logo" title="WHATWG" height="48" width="48" />
 ![Html5 logo](https://img.icons8.com/color/48/000000/html-5.png "HTML5")
 ![CSS3 logo](https://img.icons8.com/color/48/000000/css3.png "CSS3")
 ![JavaScript logo](https://img.icons8.com/color/48/000000/javascript.png "JavaScript")
 ![JSON logo](https://img.icons8.com/office/48/000000/json.png "JSON")
+![Data Structure logo](https://img.icons8.com/material-two-tone/48/000000/data-.png "Data Structure")
+![Algorithm logo](https://img.icons8.com/fluent/48/000000/flow-chart.png "Algorithm")
+![Time & space complexity logo](https://img.icons8.com/officel/48/000000/rocket.png "Time & space complexity")
 ![HTTP logo](https://img.icons8.com/plasticine/48/000000/domain.png "HTTP")
 ![Rest API logo](https://img.icons8.com/nolan/48/api-settings.png "Rest API")
 ![GraphQL logo](https://img.icons8.com/color/48/000000/graphql.png "GraphQL")
 ![NodeJS logo](https://img.icons8.com/color/48/000000/nodejs.png "NodeJS")
 <img src="https://api.iconify.design/cib:deno.svg" alt="Deno logo" title="Deno" height="48" width="48" />
+<img src="https://api.iconify.design/logos:v8.svg" alt="V8 logo" title="V8" height="48" width="48" />
 ![NPM logo](https://img.icons8.com/color/48/000000/npm.png "NPM")
+<img src="https://api.iconify.design/logos:yarn.svg" alt="Yarn logo" title="Yarn" height="48" width="48" />
 ![Markdown logo](https://img.icons8.com/office/48/000000/markdown.png "Markdown")
 ![Sass logo](https://img.icons8.com/color/48/000000/sass.png "Sass")
 ![Less logo](https://img.icons8.com/windows/48/000000/less-logo.png "Less")
@@ -59,6 +66,7 @@
 <img src="https://get.foundation/assets/img/homepage/responsive-through-and-through.svg" alt="Zurb Foundation logo" title="Zurb Foundation" height="60" width="60" />
 <img src="https://semantic-ui.com/images/logo.png" alt="Semantic UI logo" title="Semantic UI" height="48" width="48" />
 <img src="https://api.iconify.design/logos-tailwindcss-icon.svg" alt="Tailwind CSS logo" title="Tailwind CSS" height="48" width="48" />
+<img src="https://api.iconify.design/logos:bulma.svg" alt="Bulma.css logo" title="Bulma.css" height="48" width="48" />
 <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design logo" title="Ant Design" height="48" width="48" />
 ![UIKit Logo](https://img.icons8.com/windows/48/000000/uikit.png "UIKit")
 ![Material UI](https://img.icons8.com/color/48/000000/material-ui.png "Material UI")
@@ -81,11 +89,11 @@
 ![Atom Editor logo](https://img.icons8.com/color/48/000000/atom-editor.png "Atom Editor")
 ![Visual Studio Code logo](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png "Visual Studio Code")
 
-Learnings about our beloved frontend web development ❤️.
+An overview of the current frontend web ecosystem ❤️.
 
 **Frontend development** has taken the world by storm in the last decade with extreme progress in all web technologies (HTML, CSS, JS, etc.) sponsored and led by the biggest software companies in the world. It is arguably one of the highest paid, the most in-demand and satisfying jobs in the software industry for quite some time. This is the best time to learn it if you haven’t started already 😃!
 
-Here is the exhaustive list of the front-end technologies, softwares, and concepts one should learn to become a great front-end developer 🎉 and give amazing job interviews with confidence 💪.
+Here is an exhaustive list and brief overview of the front-end technologies, software, online resources, and concepts one can learn to become a great front-end developer in 2020. Thus, a single-point reference to take a look into modern frontend development.
 
 ### Technologies
 
@@ -121,6 +129,7 @@ Here is the exhaustive list of the front-end technologies, softwares, and concep
 
 -   Cross-Browser compatibility (how your web site/app looks in different browsers)
 -   Cross-Platform compatibility (how your web site/app looks on different devices like Laptop, Mobile, Tablet, etc.)
+-   Flash Of Unstyled Content (FOUC)
 -   Progressive Enhancement
 -   Graceful Degradation
 -   Feature Detection
@@ -128,7 +137,18 @@ Here is the exhaustive list of the front-end technologies, softwares, and concep
 -   Responsive Web Design/Adaptive Design
 -   Mobile web viewport
 -   Document Object Model (DOM)
--   CSS-In-JS/Utility CSS/Atomic Design/OOCSS/BEM
+-   Single Page Apps (SPA)
+-   Progressive Web Apps (PWA)
+-   Server Side Rendering (SPA)
+-   Universal Applications
+-   Hybrid Mobile Applications
+-   Search Engine Optimization (SEO)
+-   Material Design
+-   Atomic Design
+-   BEM
+-   OOCSS
+-   CSS-In-JS
+-   Utility CSS
 
 ### Essential online resources in 2020
 
