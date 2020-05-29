@@ -1,4 +1,4 @@
-# The Frontend Handbook (2020 Edition)
+# The Frontend Overview (2020 Edition)
 
 ![Internet logo](https://img.icons8.com/color/48/000000/internet.png "Internet")
 ![W3C logo](https://img.icons8.com/ios-filled/48/000000/w3c.png "W3C")
@@ -91,5 +91,5 @@
 
 An overview of the current frontend web ecosystem.
 
-[GitHub](https://github.com/Zahinize/frontend-learnings)
+[GitHub](https://github.com/Zahinize/frontend-overview)
 [Get Started](#Introduction)
