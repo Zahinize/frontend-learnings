@@ -6,7 +6,7 @@
 ![Html5 logo](https://img.icons8.com/color/48/000000/html-5.png "HTML5")
 ![CSS3 logo](https://img.icons8.com/color/48/000000/css3.png "CSS3")
 ![JavaScript logo](https://img.icons8.com/color/48/000000/javascript.png "JavaScript")
-![JSON logo](https://img.icons8.com/office/48/000000/json.png "JSON")
+<img src="https://api.iconify.design/logos:json.svg" alt="JSON logo" title="JSON" height="48" width="48" />
 ![Data Structure logo](https://img.icons8.com/material-two-tone/48/000000/data-.png "Data Structure")
 ![Algorithm logo](https://img.icons8.com/fluent/48/000000/flow-chart.png "Algorithm")
 ![Time & space complexity logo](https://img.icons8.com/officel/48/000000/rocket.png "Time & space complexity")

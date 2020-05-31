@@ -21,7 +21,7 @@ _Read More..._
 -   [Wikipedia - World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web)
 -   [GeeksForGeeks](https://www.geeksforgeeks.org/whats-difference-internet-web/)
 
-#### (W3C) World Wide Web Consortium
+#### W3C (World Wide Web Consortium)
 
 ![W3C logo](https://img.icons8.com/ios-filled/60/000000/w3c.png "W3C")
 
@@ -54,7 +54,7 @@ _Read More..._
 -   [W3C - Mission](https://www.w3.org/Consortium/mission)
 -   [open-stand.org principles](https://open-stand.org/about-us/principles/)
 
-#### (WHATWG) Web Hypertext Application Technology Working Group
+#### WHATWG (Web Hypertext Application Technology Working Group)
 
 <img src="https://api.iconify.design/logos:whatwg.svg" alt="WHATWG logo" title="WHATWG" height="60" width="60" />
 
@@ -71,7 +71,7 @@ _Read More..._
 -   [HTML living standard](https://html.spec.whatwg.org/multipage/)
 -   [Other living standards](https://spec.whatwg.org/)
 
-#### (CSSWG) CSS Working Group
+#### CSSWG (CSS Working Group)
 
 The CSS Working Group is the W3C working group chartered to develop Cascading Style Sheets (CSS). They are responsible both for the CSS specifications and for their conformance test suites.
 
@@ -81,7 +81,7 @@ _Read More..._
 -   [CSS Working Group Editor Drafts](https://drafts.csswg.org/)
 -   [CSSWG roadmap](https://www.w3.org/Style/CSS/current-work)
 
-#### Ecma International and (ES) ECMAScript
+#### Ecma International and ES (ECMAScript)
 
 Ecma is a standards organization for information and communication systems. The organization was founded in 1961 to standardize computer systems in Europe. Ecma aims to develop standards and technical reports to facilitate and standardize the use of information communication technology and consumer electronics; encourage the correct use of standards by influencing the environment in which they are applied; and publish these standards and reports in electronic and printed form. Ecma publications, including standards, can be freely copied by all interested parties without copyright restrictions. The development of standards and technical reports is done in co-operation with the appropriate national, European and international organisations.
 
@@ -94,7 +94,7 @@ _Read More..._
 -   [Wikipedia - ECMAScript](https://en.wikipedia.org/wiki/ECMAScript)
 -   [ECMAScript 2019 Specification](https://www.ecma-international.org/publications/files/ECMA-ST/ECMA-262.pdf)
 
-#### (HTML) Hypertext Markup Language
+#### HTML (Hypertext Markup Language)
 
 ![HTML logo](https://img.icons8.com/ultraviolet/60/000000/html.png "HTML")
 
@@ -113,7 +113,34 @@ _Read More..._
 -   [htmlreference.io - A free guide to HTML](https://htmlreference.io/)
 -   [HTML living standard](https://html.spec.whatwg.org/multipage/)
 
-#### (CSS) Cascading Style Sheets
+##### HTML5
+
+![Html5 logo](https://img.icons8.com/color/60/000000/html-5.png "HTML5")
+
+HTML5 is the latest evolution of the standard that defines HTML. The term represents two different concepts. It is a new version of the language HTML, with new elements, attributes, and behaviors, and a larger set of technologies that allows the building of more diverse and powerful Web sites and applications. This set is sometimes called HTML5 & friends and often shortened to just HTML5.
+
+All HTML5 technologies are classified into several groups based on their function.
+
+-   _Semantics:_ allowing you to describe more precisely what your content is.
+-   _Connectivity:_ allowing you to communicate with the server in new and innovative ways.
+-   _Offline and storage:_ allowing webpages to store data on the client-side locally and operate offline more efficiently.
+-   _Multimedia:_ making video and audio first-class citizens in the Open Web.
+-   _2D/3D graphics and effects:_ allowing a much more diverse range of presentation options.
+-   _Performance and integration:_ providing greater speed optimization and better usage of computer hardware.
+-   _Device access:_ allowing for the usage of various input and output devices.
+-   _Styling:_ letting authors write more sophisticated themes.
+
+_Read More..._
+
+-   [MDN - HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+-   [developers.google.com - Web fundamentals](https://developers.google.com/web)
+-   [html5doctor.com - Helping you implement HTML5 today](http://html5doctor.com/)
+-   [tutorialspoint.com - HTML5 tutorial](https://www.tutorialspoint.com/html5/index.htm)
+-   [html5test.com - how well does your browser support HTML5?](http://html5test.com/)
+-   [html5up.net - Responsive, elegant free website templates](https://html5up.net/)
+-   [W3C - HTML5 logo](https://www.w3.org/html/logo/)
+
+#### CSS (Cascading Style Sheets)
 
 ![CSS logo](https://img.icons8.com/ultraviolet/60/000000/css.png "CSS")
 
@@ -130,7 +157,64 @@ _Read More..._
 -   [cssreference.io - A free visual guide to CSS](https://cssreference.io/)
 -   [W3C - CSS Overview](https://www.w3.org/Style/CSS/Overview.en.html)
 
-#### (JS) JavaScript
+##### CSS3
+
+![CSS3 logo](https://img.icons8.com/color/60/000000/css3.png "CSS3")
+
+CSS3 is the latest evolution of the [Cascading Style Sheets](#css-cascading-style-sheets) language and aims at extending CSS2.1. It brings a lot of long-awaited novelties, like [rounded corners](https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius), [shadows](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow), [gradients](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Images/Using_CSS_gradients), [transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/transition) or [animations](https://developer.mozilla.org/en-US/docs/Web/CSS/animation), as well as new layouts like [multi-columns](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Columns/Using_multi-column_layouts), [flexible box](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) or [grid layouts](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout). Experimental parts are vendor-prefixed and should either be avoided in production environments, or used with extreme caution as both their syntax and semantics can change in the future.
+
+CSS Level 2 needed 9 years, from August 2002 to June 2011 to reach the Recommendation status. This was due to the fact that a few secondary features held back the whole specification. In order to accelerate the standardization of non-problematic features, the [CSS Working Group](#csswg-css-working-group) of the W3C, in a decision referred as the [Beijing doctrine](http://fantasai.inkedblade.net/weblog/2011/inside-csswg/modules), divided CSS in smaller components called modules. Each of these modules is now an independent part of the language and moves towards standardization at its own pace. While some modules are already W3C Recommendations, other still are early Working Drafts.
+
+###### Completed modules
+
+A few CSS modules already became a standard as a W3C Recommendation. There should be no more changes.
+
+-   [**CSS Color Module Level 3**](https://drafts.csswg.org/css-color-3/) `Recommendation since June 7th, 2011`
+
+-   [**CSS Namespaces Module**](https://drafts.csswg.org/css-namespaces-3/) `Recommendation since September 29th, 2011`
+
+-   [**Selectors Level 3**](https://drafts.csswg.org/selectors-3/) `Recommendation since September 29th, 2011`
+
+-   [**Media Queries**](https://drafts.csswg.org/mediaqueries-3/) `Recommendation since June 19th, 2012`
+
+-   [**CSS Style Attributes**](https://drafts.csswg.org/css-style-attr/) `Recommendation since November 7th, 2013`
+
+-   [**CSS Fonts Module Level 3**](https://drafts.csswg.org/css-fonts-3/) `Candidate Recommendation since September 20th, 2018`
+
+-   [**CSS Basic User Interface Module Level 3**](https://drafts.csswg.org/css-ui-3/) `Recommendation since June 21st, 2018`
+
+###### Stable modules
+
+A few CSS modules are already fairly stable and have reached one of the three recommendation level of the CSSWG: `Candidate Recommendation`, `Proposed Recommendation` or `Recommendation`. These can be used without prefix and are pretty stable, though a few features can still be dropped at the Candidate Recommendation stage.
+
+These modules extend and amend the CSS2.1 specification which build the core of the specification. Together with it, they are the current snapshot of the CSS specification.
+
+-   [**CSS Backgrounds and Borders Module Level 3**](https://drafts.csswg.org/css-backgrounds-3/) `Candidate Recommendation`
+
+-   [**CSS Conditional Rules Module Level 3**](https://drafts.csswg.org/css-conditional-3/) `Candidate Recommendation`
+
+-   [**CSS Multi-column Layout Module**](https://drafts.csswg.org/css-multicol-1/) `Working Draft`
+
+-   [**CSS Values and Units Module Level 3**](https://drafts.csswg.org/css-values-3/) `Candidate Recommendation`
+
+-   [**CSS Flexible Box Layout Module**](https://drafts.csswg.org/css-flexbox-1/) `Candidate Recommendation`
+
+-   [**CSS Cascading and Inheritance Level 3**](https://drafts.csswg.org/css-cascade-3/) `Candidate Recommendation`
+
+-   [**CSS Writing Modes Module Level 3**](https://drafts.csswg.org/css-writing-modes-3/) `Proposed Recommendation`
+
+-   [**CSS Counter Styles Level 3**](https://drafts.csswg.org/css-counter-styles-3/) `Candidate Recommendation`
+
+_Read More..._
+
+-   [MDN - CSS3](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
+-   [css3.info - Everything you need to know about CSS3](http://www.css3.info/)
+-   [css-tricks.com - Learn everything about CSS3](https://css-tricks.com/)
+-   [cssreference.io - A free visual guide to CSS](https://cssreference.io/)
+-   [tutorialspoint.com - CSS3 tutorial](https://www.tutorialspoint.com/css/css3_tutorial.htm)
+-   [freecodecamp.org - The best CSS and CSS3 tutorials](https://www.freecodecamp.org/news/best-css-and-css3-tutorial/)
+
+#### JS (JavaScript)
 
 ![JavaScript logo](https://img.icons8.com/ultraviolet/60/000000/js.png "JavaScript")
 
@@ -160,6 +244,7 @@ There are six major JavaScript engines released and used by the world's biggest 
     -   SpiderMonkey was written by Brendan Eich in C/C++. Rhino was primarily written by Norris Boyd in Java. Both engines were optimized to be compliant with ECMA-262 Edition 5 and later versions. Some major engine runtime optimizations such as TracerMonkey (Firefox 3.5), JagerMonkey (Firefox 4) and IonMonkey were added to SpiderMonkey engine respectively. Code performance optimizations are constantly added to improve the engine.
 
 -   **V8 - Google**
+    <img src="https://api.iconify.design/logos:v8.svg" alt="V8 logo" title="V8" height="48" width="48" />
 
     -   V8 is the high-performance JS engine used in leading software and technologies such as Google Chrome, Microsoft Edge (latest version), Opera (version 15+) and NodeJS.
 
@@ -178,30 +263,24 @@ _Read More..._
 
 -   [List of JavaScript Engines](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
 
-#### HTML5
+#### JSON (JavaScript Object Notation)
 
-HTML5 is the latest evolution of the standard that defines HTML. The term represents two different concepts. It is a new version of the language HTML, with new elements, attributes, and behaviors, and a larger set of technologies that allows the building of more diverse and powerful Web sites and applications. This set is sometimes called HTML5 & friends and often shortened to just HTML5.
+<img src="https://api.iconify.design/logos:json.svg" alt="JSON logo" title="JSON" height="60" width="60" />
 
-All HTML5 technologies are classified into several groups based on their function.
+JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate. It is based on a subset of the [JavaScript Programming Language Standard ECMA-262 3rd Edition - December 1999](http://www.ecma-international.org/publications/files/ecma-st/ECMA-262.pdf). JSON is a text format that is completely language independent but uses conventions that are familiar to programmers of the C-family of languages, including C, C++, C#, Java, JavaScript, Perl, Python, and many others. These properties make JSON an ideal data-interchange language.
 
--   _Semantics:_ allowing you to describe more precisely what your content is.
--   _Connectivity:_ allowing you to communicate with the server in new and innovative ways.
--   _Offline and storage:_ allowing webpages to store data on the client-side locally and operate offline more efficiently.
--   _Multimedia:_ making video and audio first-class citizens in the Open Web.
--   _2D/3D graphics and effects:_ allowing a much more diverse range of presentation options.
--   _Performance and integration:_ providing greater speed optimization and better usage of computer hardware.
--   _Device access:_ allowing for the usage of various input and output devices.
--   _Styling:_ letting authors write more sophisticated themes.
+JSON is built on two structures:
+
+-   A collection of name/value pairs. In various languages, this is realized as an object, record, struct, dictionary, hash table, keyed list, or associative array.
+-   An ordered list of values. In most languages, this is realized as an array, vector, list, or sequence.
+
+These are universal data structures. Virtually all modern programming languages support them in one form or another. It makes sense that a data format that is interchangeable with programming languages also be based on these structures.
 
 _Read More..._
 
--   [MDN - HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
--   [developers.google.com - Web Fundamentals](https://developers.google.com/web)
--   [html5doctor.com - Helping you implement HTML5 today](http://html5doctor.com/)
--   [tutorialspoint.com - HTML5 Tutorial](https://www.tutorialspoint.com/html5/index.htm)
--   [html5test.com - how well does your browser support HTML5?](http://html5test.com/)
--   [html5up.net - Responsive, elegant free website templates](https://html5up.net/)
--   [W3C - HTML5 logo](https://www.w3.org/html/logo/)
+-   [json.org - Official website of JSON](https://www.json.org/json-en.html)
+-   [Wikipedia - JSON](https://en.wikipedia.org/wiki/JSON)
+-   [MDN - JSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON)
 
 *   Html/Html5 (core and advanced)
 *   CSS/CSS3 (core and advanced)
