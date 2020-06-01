@@ -205,7 +205,7 @@ These modules extend and amend the CSS2.1 specification which build the core of 
 
 -   [**CSS Counter Styles Level 3**](https://drafts.csswg.org/css-counter-styles-3/) `Candidate Recommendation`
 
-_Read More..._
+##### Read More...
 
 -   [MDN - CSS3](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
 -   [css3.info - Everything you need to know about CSS3](http://www.css3.info/)
@@ -227,13 +227,6 @@ JavaScript runs on the client side of the web which is responsible for controlli
 Contrary to popular misconception, **JavaScript is not interpreted Java**. Apart from having the first four same characters and registered trademarks assigned to Oracle in the US, they are different programming languages with different use-cases. JavaScript is a loosely typed language that supports prototypial (object-oriented) inheritance whereas Java is a strongly typed language that supports classical inheritance. Objects can be created at run time in JavaScript as compared to the classical syntax that has to be created at build time by compiled languages such as C++ or Java.
 
 The dynamic capabilities of JavaScript includes run-time object construction, variable-parameter lists, function variables, dynamic script creation (by `eval`), object introspection via (for..in loop) and source code recovery (JS programs can decompile their function bodies to their original source text).
-
-_Read More..._
-
--   [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
--   [javascript.info - The Modern JavaScript Tutorial.](https://javascript.info/)
--   [javascript.com - PluralSight](https://www.javascript.com/)
--   [ECMAScript 2019 Specification](https://www.ecma-international.org/publications/files/ECMA-ST/ECMA-262.pdf)
 
 ##### JavaScript Engines
 
@@ -259,8 +252,12 @@ There are six major JavaScript engines released and used by the world's biggest 
 -   **Chakra - Microsoft**
     -   This engine was used in the Internet Explorer and older version of Microsoft Edge browsers before the company adopted Google's V8 engine and deprecated its own.
 
-_Read More..._
+##### Read More...
 
+-   [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+-   [javascript.info - The Modern JavaScript Tutorial.](https://javascript.info/)
+-   [javascript.com - PluralSight](https://www.javascript.com/)
+-   [ECMAScript 2019 Specification](https://www.ecma-international.org/publications/files/ECMA-ST/ECMA-262.pdf)
 -   [List of JavaScript Engines](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
 
 #### JSON (JavaScript Object Notation)
@@ -282,20 +279,130 @@ _Read More..._
 -   [Wikipedia - JSON](https://en.wikipedia.org/wiki/JSON)
 -   [MDN - JSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON)
 
-*   Html/Html5 (core and advanced)
-*   CSS/CSS3 (core and advanced)
-*   [JavaScript](JavaScript?id=what-is-javascript) (core and advanced, ES5+)
-*   A backend Language (Node JS/PHP/Python/Ruby/Go/Java etc.)
-*   JSON
-*   HTTP, SMTP protocol
-*   REST/GraphQL API
-*   Markdown/Jade (Html pre-processors)
-*   Sass/Less/Stylus/PostCSS/CSS Modules/CSS-In-JS (CSS pre-processors and tools)
-*   CoffeeScript/TypeScript/Babel (JS pre-processors)
-*   Webpack/Parcel/Rollup, Grunt/Gulp (Module bundlers and Task Runners)
-*   Web browser (like Chrome, Firefox, Apple Safari etc.)
-*   Web Server (like Apache Tomcat, HTTP server in backend languages like PHP/Python/Ruby/Go/Java etc.)
-*   IDE (Visual Studio Code, WebStorm, Atom etc.)
+#### Data Structure
+
+![Data Structure logo](https://img.icons8.com/material-two-tone/60/000000/data-.png "Data Structure")
+
+In computer science, a data structure is a data organization, management, and storage format that enables [efficient](https://en.wikipedia.org/wiki/Algorithmic_efficiency) access and modification. More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.
+
+##### Usage
+
+Different types of data structures are suited to different kinds of applications, and some are highly specialized to specific tasks. For example, [relational databases](https://en.wikipedia.org/wiki/Relational_database) commonly use [B-tree](https://en.wikipedia.org/wiki/B-tree) indexes for data retrieval, while [compiler](https://en.wikipedia.org/wiki/Compiler) implementations usually use [hash tables](https://en.wikipedia.org/wiki/Hash_table) to look up identifiers.
+
+Data structures provide a means to manage large amounts of data efficiently for uses such as large [databases](https://en.wikipedia.org/wiki/Database) and [internet indexing services](https://en.wikipedia.org/wiki/Web_indexing). Usually efficient data structures are key to designing efficient [algorithms](https://en.wikipedia.org/wiki/Algorithm). Some formal design methods and [programming languages](https://en.wikipedia.org/wiki/Programming_language) emphasize data structures, rather than algorithms, as the key organizing factor in software design. Data structures can be used to organize the storage and retrieval of information stored in both [main memory](https://en.wikipedia.org/wiki/Main_memory) and [secondary memory](https://en.wikipedia.org/wiki/Secondary_memory).
+
+##### Implementation
+
+Data structures are generally based on the ability of a computer to fetch and store data at any place in its memory, specified by a [pointer](<https://en.wikipedia.org/wiki/Pointer_(computer_programming)>)—a bit string, representing a [memory address](https://en.wikipedia.org/wiki/Memory_address), that can be itself stored in memory and manipulated by the program. Thus, the [array](https://en.wikipedia.org/wiki/Array_data_structure) and [record](<https://en.wikipedia.org/wiki/Record_(computer_science)>) data structures are based on computing the addresses of data items with [arithmetic operations](https://en.wikipedia.org/wiki/Arithmetic_operations), while the [linked data structures](https://en.wikipedia.org/wiki/Linked_data_structure) are based on storing addresses of data items within the structure itself.
+
+The implementation of a data structure usually requires writing a set of [procedures](https://en.wikipedia.org/wiki/Subroutine) that create and manipulate instances of that structure. The efficiency of a data structure cannot be analyzed separately from those operations. This observation motivates the theoretical concept of an [abstract data type](https://en.wikipedia.org/wiki/Abstract_data_type), a data structure that is defined indirectly by the operations that may be performed on it, and the mathematical properties of those operations (including their space and time cost).
+
+##### Types
+
+-   [Array](https://www.geeksforgeeks.org/array/)
+-   [Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)
+-   [Stack](https://www.geeksforgeeks.org/stack/)
+-   [Queue](https://www.geeksforgeeks.org/queue/)
+-   [Binary Tree](https://www.geeksforgeeks.org/binary-tree-2/)
+-   [Binary Search Tree](https://www.geeksforgeeks.org/binary-search-tree/)
+-   [Heap](https://www.geeksforgeeks.org/heap/)
+-   [Hashing](https://www.geeksforgeeks.org/hashing/)
+-   [Graph](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
+-   [Matrix](https://www.geeksforgeeks.org/matrix/)
+
+##### Read More...
+
+-   [Wikipedia - Data Structure](https://en.wikipedia.org/wiki/Data_structure)
+-   [Geeksforgeeks - Data structure tutorial](https://www.geeksforgeeks.org/data-structures/)
+-   [Javatpoint - Data structure tutorial](https://www.javatpoint.com/data-structure-tutorial)
+-   [Tutorialspoint - Data structure tutorial](https://www.tutorialspoint.com/data_structures_algorithms/data_structures_basics.htm)
+-   [Udemy Course - Coding interview bootcamp algorithms and data-structure](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/)
+-   [Coursera Course - Data Structures](https://www.coursera.org/learn/data-structures)
+-   [Udemy Course - Learning data structures in javascript from scratch](https://www.udemy.com/course/learning-data-structures-in-javascript-from-scratch/)
+
+#### Algorithm
+
+![Algorithm logo](https://img.icons8.com/fluent/60/000000/flow-chart.png "Algorithm")
+
+In mathematics and computer science, an algorithm is a finite sequence of [well-defined](https://en.wikipedia.org/wiki/Well-defined), computer-implementable instructions, typically to solve a class of problems or to perform a computation. In simpler words, it is a set of steps to accomplish a task. Algorithms are always [unambiguous](https://en.wikipedia.org/wiki/Unambiguous) and are used as specifications for performing [calculations](https://en.wikipedia.org/wiki/Calculation), [data processing](https://en.wikipedia.org/wiki/Data_processing), [automated reasoning](https://en.wikipedia.org/wiki/Automated_reasoning), and other tasks.
+
+##### Usage
+
+As an effective method, an algorithm can be expressed within a finite amount of space and time, and in a well-defined formal language for calculating a function. Starting from an initial state and initial input (perhaps empty), the instructions describe a computation that, when executed, proceeds through a finite number of well-defined successive states, eventually producing "output" and terminating at a final ending state. The transition from one state to the next is not necessarily [deterministic](https://en.wikipedia.org/wiki/Deterministic); some algorithms, known as [randomized algorithms](https://en.wikipedia.org/wiki/Randomized_algorithms), incorporate random input.
+
+Algorithms are widely used throughout all areas of IT (information technology). A search engine algorithm, for example, takes search strings of keywords and operators as input, searches its associated database for relevant web pages, and returns results. An image compression algorithm uses performant to compress it and return the optimized
+
+##### Origin
+
+The word algorithm derives from the name of the mathematician, [Mohammed ibn-Musa al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi), who was part of the royal court in Baghdad and who lived from about 780 to 850. Al-Khwarizmi's work is the likely source for the word algebra as well.
+
+##### Characteristics
+
+The Algorithm designed are language-independent, i.e. they are just plain instructions that can be implemented in any language, and yet the output will be the same, as expected. It must have the following characteristics:
+
+-   Clear and Unambiguous
+-   Well-Defined Inputs
+-   Well-Defined Outputs
+-   Finite-ness
+-   Feasible
+-   Language Independent
+
+##### Read More...
+
+-   [Wikipedia - Algorithm](https://en.wikipedia.org/wiki/Algorithm)
+-   [Geeksforgeeks - Introduction to Algorithms](https://www.geeksforgeeks.org/introduction-to-algorithms/)
+-   [Khan Academy - What is an algorithm and why should you care?](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/v/what-are-algorithms)
+-   [TechTarget - What is an Algorithm](https://whatis.techtarget.com/definition/algorithm)
+-   [Coursera Course - Algorithms](https://www.coursera.org/specializations/algorithms)
+-   [Udemy Course - Coding interview bootcamp algorithms and data-structure](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/)
+-   [HackerRank - Matching developers with great companies](https://www.hackerrank.com/)
+-   [HackerEarth - Connecting stellar tech talent with incredible opportunities](https://www.hackerearth.com/)
+-   [Leetcode - Best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews](https://leetcode.com/)
+
+#### Time & Space Complexity
+
+![Time & space complexity logo](https://img.icons8.com/officel/48/000000/rocket.png "Time & space complexity")
+
+There are multiple ways to design an algorithm, or considering which one to implement in an application. When thinking through this, it’s crucial to consider the algorithm’s time complexity and space complexity.
+
+##### Time complexity
+
+The time complexity of an algorithm is the amount of time taken by the algorithm to complete its process as a function of its input length, _**n**_. The time complexity of an algorithm is commonly expressed using asymptotic notations:
+
+-   _**Big O - O(n)**_
+-   _**Big Theta - Θ(n)**_
+-   _**Big Omega - Ω(n)**_
+
+##### Space complexity
+
+The space complexity of an algorithm is the amount of space (or memory) taken by the algorithm to run as a function of its input length, _**n**_. Space complexity includes both auxiliary space and space used by the input. **Auxiliary space** is the temporary or extra space used by the algorithm while it is being executed. Space complexity of an algorithm is commonly expressed using _**Big O (O(n))**_ notation.
+
+Many algorithms have inputs that can vary in size, e.g., an array. In such cases, the space complexity will depend on the size of the input and hence, cannot be less that _**O(n)**_ for an input of size nn. For fixed-size inputs, the complexity will be a constant _**O(1)**_.
+
+##### Read More...
+
+-   [Edpresso (Educative) - Time complexity VS Space complexity](https://www.educative.io/edpresso/time-complexity-vs-space-complexity)
+-   [HackerEarth - Time and Space complexity tutorial](https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/tutorial/)
+-   [GitConnected - Time and Space complexity](https://levelup.gitconnected.com/time-and-space-complexity-725dcba31902)
+-   [GildAcademy - Time and Space complexity of Data Structure and Sorting Algorithms](https://medium.com/@info.gildacademy/time-and-space-complexity-of-data-structure-and-sorting-algorithms-588a57edf495)
+-   [Udemy Course - Algorithms complexity](https://www.udemy.com/course/algorithms-complexity/)
+
+#### To be Removed
+
+-   Html/Html5 (core and advanced)
+-   CSS/CSS3 (core and advanced)
+-   [JavaScript](JavaScript?id=what-is-javascript) (core and advanced, ES5+)
+-   A backend Language (Node JS/PHP/Python/Ruby/Go/Java etc.)
+-   JSON
+-   HTTP, SMTP protocol
+-   REST/GraphQL API
+-   Markdown/Jade (Html pre-processors)
+-   Sass/Less/Stylus/PostCSS/CSS Modules/CSS-In-JS (CSS pre-processors and tools)
+-   CoffeeScript/TypeScript/Babel (JS pre-processors)
+-   Webpack/Parcel/Rollup, Grunt/Gulp (Module bundlers and Task Runners)
+-   Web browser (like Chrome, Firefox, Apple Safari etc.)
+-   Web Server (like Apache Tomcat, HTTP server in backend languages like PHP/Python/Ruby/Go/Java etc.)
+-   IDE (Visual Studio Code, WebStorm, Atom etc.)
 
 ### Frameworks/Libraries
 
